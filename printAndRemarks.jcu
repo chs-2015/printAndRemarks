@@ -2,9 +2,97 @@
 
 <workspace_user>
 	<active_project>
-		<label>printAndRemarks</label>
+		<label>FromMeToYou</label>
 	</active_project>
 	<projects>
+		<project>
+			<label>FromMeToYou</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\FromMeToYou\.git</path>
+				<dir>.git</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\refs</path>
+				<dir>.git\refs</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\refs\heads</path>
+				<dir>.git\refs\heads</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\refs\tags</path>
+				<dir>.git\refs\tags</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\refs\remotes</path>
+				<dir>.git\refs\remotes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\refs\remotes\origin</path>
+				<dir>.git\refs\remotes\origin</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\hooks</path>
+				<dir>.git\hooks</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\info</path>
+				<dir>.git\info</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\objects</path>
+				<dir>.git\objects</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\objects\pack</path>
+				<dir>.git\objects\pack</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\objects\info</path>
+				<dir>.git\objects\info</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\objects\16</path>
+				<dir>.git\objects\16</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\objects\63</path>
+				<dir>.git\objects\63</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\objects\82</path>
+				<dir>.git\objects\82</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\logs</path>
+				<dir>.git\logs</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\logs\refs</path>
+				<dir>.git\logs\refs</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\logs\refs\heads</path>
+				<dir>.git\logs\refs\heads</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\logs\refs\remotes</path>
+				<dir>.git\logs\refs\remotes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\.git\logs\refs\remotes\origin</path>
+				<dir>.git\logs\refs\remotes\origin</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\FromMeToYou\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
 		<project>
 			<label>printAndRemarks</label>
 			<showfiles>false</showfiles>
@@ -16,4 +104,12 @@
 			</folderitem>
 		</project>
 	</projects>
+	<symboltables>
+		<symboltable>
+			<path>src\printAndRemarks.java.sdk</path>
+			<symbols>
+				<symbol>printAndRemarks</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
 </workspace_user>

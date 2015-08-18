@@ -6,10 +6,13 @@
  
 public class printAndRemarks {
     
-    public /* im a beast */ static void main(String[] args) {
+    public /* im a beast, pfeffer said this cant work ;) */ static void main(String[] args) {
     	
     	// This is an inline remark
-    	System.out.println("Hello World!"); // This outputs "Hello World!"
+    	System.out.print("Hello World! "); // This outputs "Hello World!"
     	System.out.println("Peter picked a peck of pickled peppers.");
+
+		System.out.println(25/5);
+		System.out.println(4/7.0448579);
     }
 }
